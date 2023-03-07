@@ -100,3 +100,4 @@ for (i in 1:length(mapid)){
          }
      data_all<-rbind(data_all,all)
      }  
+}
